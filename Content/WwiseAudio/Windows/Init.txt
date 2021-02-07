@@ -1,0 +1,30 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2136634857	Escenas			\Default Work Unit\Escenas	
+	2823359158	library			\Default Work Unit\Niveles\library	
+	2943799864	maze			\Default Work Unit\Niveles\maze	
+
+State	ID	Name	State Group			Notes
+	290285391	lobby	Escenas			
+	748895195	None	Escenas			
+	2607556080	menu	Escenas			
+	2823359158	library	Escenas			
+	2943799864	maze	Escenas			
+	748895195	None	library			
+	3436006648	New_State_02	library			
+	3436006649	New_State_03	library			
+	3436006651	New_State_01	library			
+	3436006652	New_State_06	library			
+	3436006653	New_State_07	library			
+	3436006654	New_State_04	library			
+	3436006655	New_State_05	library			
+	748895195	None	maze			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	1730564739	MUSICA			\Default Work Unit\Master Audio Bus\MUSICA	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

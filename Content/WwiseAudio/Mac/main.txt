@@ -1,0 +1,94 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3864305416	play_pared			\Default Work Unit\play_pared	
+	4031831520	Play_pasos			\Default Work Unit\Play_pasos	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3026462669	Pasos			\Default Work Unit\Pasos	
+
+Switch	ID	Name	Switch Group			Notes
+	556669445	Laberinto	Pasos			
+	1641284458	Bosque	Pasos			
+	1736299401	Placas	Pasos			
+	2274601469	Cueva	Pasos			
+	3219867671	Agua	Pasos			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2136634857	Escenas			\Default Work Unit\Escenas	
+
+State	ID	Name	State Group			Notes
+	290285391	lobby	Escenas			
+	748895195	None	Escenas			
+	2607556080	menu	Escenas			
+	2823359158	library	Escenas			
+	2943799864	maze	Escenas			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	393239870	SFX			\Default Work Unit\Master Audio Bus\SFX	
+	1730564739	MUSICA			\Default Work Unit\Master Audio Bus\MUSICA	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	253479508	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\New Sound SFX_01\Wwise Silence	
+	742041600	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\piedritas\New Sound SFX\Wwise Silence	
+	779905026	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\placas\placas\New Sound SFX\Wwise Silence	
+	879586172	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\New Sound SFX\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3655766	pasos cueva-006	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos cueva-006_CA9EB0BD.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\cueva\pasos cueva-006		47292
+	26415201	pasos cueva-005	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos cueva-005_06ADADE5.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\cueva\pasos cueva-005		41890
+	42833401	pasos laberinto-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos laberinto-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\laberinto\pasos laberinto-003		34850
+	58025510	pasos agua-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos agua-003_56D36225.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\agua\pasos agua-003		67988
+	92805301	pasos laberinto-005	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos laberinto-005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\laberinto\pasos laberinto-005		40932
+	101700251	pasos placas-004	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos placas-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\placas\pasos placas-004		58526
+	103322527	pasos cueva-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos cueva-001_A5F4C872.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\cueva\pasos cueva-001		36442
+	123349736	pared-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pared-001_93E6C1B3.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\puertas\pared\pared-001		166968
+	134847893	para_placa-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\para_placa-002_93027F76.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\placas\placas\para_placa-002		519024
+	147934335	wooshes-007	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\wooshes-007_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\wooshes\wooshes-007		188612
+	153424048	gotas-004	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-004		124034
+	168689738	pasos bosque-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos bosque-002_85B7D7DD.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\bosque\pasos bosque-002		42946
+	185477549	pasos placas-006	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos placas-006_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\placas\pasos placas-006		34784
+	207626722	pasos agua-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos agua-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\agua\pasos agua-002		82162
+	283886659	pasos bosque-004	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos bosque-004_19924D3A.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\bosque\pasos bosque-004		47326
+	290468000	piedra moverse	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\piedra moverse_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\puertas\pared\piedra moverse		161700
+	291834238	wooshes-006	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\wooshes-006_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\wooshes\wooshes-006		250210
+	293327405	amb_lab	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\amb_lab_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\laberinto\amb_lab		15457408
+	299883206	piedritas-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\piedritas-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\piedritas\piedritas-003		628574
+	313699009	gotas-006	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-006_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-006		124034
+	315323057	pasos laberinto-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos laberinto-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\laberinto\pasos laberinto-002		41904
+	326099773	wooshes-005	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\wooshes-005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\wooshes\wooshes-005		117754
+	342559976	balde-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\balde-002_7CF3FF52.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\Balde\balde-002		111470
+	347402177	vela	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\vela_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\vela		1543568
+	436307386	pasos placas-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos placas-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\placas\pasos placas-001		47520
+	461745137	balde-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\balde-001_1B60576B.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\Balde\balde-001		86930
+	465193084	gotas-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-001		87340
+	507024844	coloca_objeto	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\coloca_objeto_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\coloca objeto\coloca_objeto		34644
+	511959506	pasos cueva-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos cueva-003_76CB96DA.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\cueva\pasos cueva-003		31772
+	516578347	coloca_objeto-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\coloca_objeto-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\coloca objeto\coloca_objeto-001		29490
+	562380457	gotas-007	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-007_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-007		137794
+	572618766	pasos placas-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos placas-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\placas\pasos placas-003		53568
+	572789918	amb_placas	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\amb_placas_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\placas\amb_placas		7728936
+	613152749	gotas-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-003		119446
+	614653521	gotas-005	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-005		128620
+	691560040	pasos bosque-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos bosque-001_4426073D.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\bosque\pasos bosque-001		45980
+	696652990	amb_cueva-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\amb_cueva-001_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\amb_cueva-001		7728936
+	731866857	pasos laberinto-006	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos laberinto-006_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\laberinto\pasos laberinto-006		41614
+	741215307	pasos cueva-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos cueva-002_F3F992FF.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\cueva\pasos cueva-002		38352
+	762191218	antorcha	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\antorcha_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\antorcha		1543568
+	767957259	pasos laberinto-004	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos laberinto-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\laberinto\pasos laberinto-004		53388
+	770240823	balde	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\balde_C4139433.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\objetos\Balde\balde		86930
+	788738747	piedritas-004	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\piedritas-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\piedritas\piedritas-004		1229434
+	803409794	pasos placas-005	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos placas-005_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\placas\pasos placas-005		55514
+	825499824	pasos placas-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos placas-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\placas\pasos placas-002		48496
+	857645549	para_placa-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\para_placa-003_C5109323.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\placas\placas\para_placa-003		393990
+	900875087	pasos agua-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos agua-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\agua\pasos agua-001		58356
+	902000667	puerta-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\puerta-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\puertas\puerta-002		189470
+	914728855	gotas-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\gotas-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\gotas\gotas-002		133206
+	965346895	amb_cueva	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\amb_cueva_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\amb_cueva		7728936
+	1006075052	piedritas-002	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\piedritas-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\piedritas\piedritas-002		619336
+	1020451901	pasos laberinto-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos laberinto-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\laberinto\pasos laberinto-001		46768
+	1028700972	para_placa-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\para_placa-001_44FA3016.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\placas\placas\para_placa-001		403338
+	1029871698	piedritas-001	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\piedritas-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\cueva\piedritas\piedritas-001		355428
+	1030304035	para_placa-004	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\para_placa-004_4F647B88.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\Ambientes\amb\placas\placas\para_placa-004		542394
+	1038390416	pared aterriza	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pared aterriza_55DA4CA1.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\puertas\pared\pared aterriza		223956
+	1066815367	pasos bosque-003	D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Mac\SFX\pasos bosque-003_0A0C7491.wem		\Actor-Mixer Hierarchy\Default Work Unit\all\pasos\pasos\bosque\pasos bosque-003		40194
+

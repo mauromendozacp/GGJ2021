@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\</ProjectRoot>
+		<SourceFilesRoot>D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Unreal Projects\GGJ2021\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Proyectos\Spark-in-the-Dark-Wwise\Spark-in-the-Dark\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1742071719">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="3078972102">
+			<ObjectPath>\SoundBanks\Default Work Unit\main</ObjectPath>
+			<ShortName>main</ShortName>
+			<Path>main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3864305416" Name="play_pared" ObjectPath="\Events\Default Work Unit\play_pared">
+					<IncludedMemoryFiles>
+						<File Id="153424048" Language="SFX">
+							<ShortName>gotas-004.wav</ShortName>
+							<Path>SFX\gotas-004_10C4C929.wem</Path>
+						</File>
+						<File Id="299883206" Language="SFX">
+							<ShortName>piedritas-003.wav</ShortName>
+							<Path>SFX\piedritas-003_10C4C929.wem</Path>
+						</File>
+						<File Id="313699009" Language="SFX">
+							<ShortName>gotas-006.wav</ShortName>
+							<Path>SFX\gotas-006_10C4C929.wem</Path>
+						</File>
+						<File Id="465193084" Language="SFX">
+							<ShortName>gotas-001.wav</ShortName>
+							<Path>SFX\gotas-001_10C4C929.wem</Path>
+						</File>
+						<File Id="562380457" Language="SFX">
+							<ShortName>gotas-007.wav</ShortName>
+							<Path>SFX\gotas-007_10C4C929.wem</Path>
+						</File>
+						<File Id="613152749" Language="SFX">
+							<ShortName>gotas-003.wav</ShortName>
+							<Path>SFX\gotas-003_10C4C929.wem</Path>
+						</File>
+						<File Id="614653521" Language="SFX">
+							<ShortName>gotas-005.wav</ShortName>
+							<Path>SFX\gotas-005_10C4C929.wem</Path>
+						</File>
+						<File Id="696652990" Language="SFX">
+							<ShortName>amb_cueva-001.wav</ShortName>
+							<Path>SFX\amb_cueva-001_D79FB2B7.wem</Path>
+						</File>
+						<File Id="788738747" Language="SFX">
+							<ShortName>piedritas-004.wav</ShortName>
+							<Path>SFX\piedritas-004_10C4C929.wem</Path>
+						</File>
+						<File Id="914728855" Language="SFX">
+							<ShortName>gotas-002.wav</ShortName>
+							<Path>SFX\gotas-002_10C4C929.wem</Path>
+						</File>
+						<File Id="965346895" Language="SFX">
+							<ShortName>amb_cueva.wav</ShortName>
+							<Path>SFX\amb_cueva_D79FB2B7.wem</Path>
+						</File>
+						<File Id="1006075052" Language="SFX">
+							<ShortName>piedritas-002.wav</ShortName>
+							<Path>SFX\piedritas-002_10C4C929.wem</Path>
+						</File>
+						<File Id="1029871698" Language="SFX">
+							<ShortName>piedritas-001.wav</ShortName>
+							<Path>SFX\piedritas-001_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4031831520" Name="Play_pasos" ObjectPath="\Events\Default Work Unit\Play_pasos"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="3655766" Language="SFX">
+					<ShortName>pasos cueva-006.wav</ShortName>
+					<Path>SFX\pasos cueva-006_CA9EB0BD.wem</Path>
+				</File>
+				<File Id="26415201" Language="SFX">
+					<ShortName>pasos cueva-005.wav</ShortName>
+					<Path>SFX\pasos cueva-005_06ADADE5.wem</Path>
+				</File>
+				<File Id="42833401" Language="SFX">
+					<ShortName>pasos laberinto-003.wav</ShortName>
+					<Path>SFX\pasos laberinto-003_10C4C929.wem</Path>
+				</File>
+				<File Id="58025510" Language="SFX">
+					<ShortName>pasos agua-003.wav</ShortName>
+					<Path>SFX\pasos agua-003_56D36225.wem</Path>
+				</File>
+				<File Id="92805301" Language="SFX">
+					<ShortName>pasos laberinto-005.wav</ShortName>
+					<Path>SFX\pasos laberinto-005_10C4C929.wem</Path>
+				</File>
+				<File Id="101700251" Language="SFX">
+					<ShortName>pasos placas-004.wav</ShortName>
+					<Path>SFX\pasos placas-004_10C4C929.wem</Path>
+				</File>
+				<File Id="103322527" Language="SFX">
+					<ShortName>pasos cueva-001.wav</ShortName>
+					<Path>SFX\pasos cueva-001_A5F4C872.wem</Path>
+				</File>
+				<File Id="123349736" Language="SFX">
+					<ShortName>pared-001.wav</ShortName>
+					<Path>SFX\pared-001_93E6C1B3.wem</Path>
+				</File>
+				<File Id="134847893" Language="SFX">
+					<ShortName>para_placa-002.wav</ShortName>
+					<Path>SFX\para_placa-002_93027F76.wem</Path>
+				</File>
+				<File Id="147934335" Language="SFX">
+					<ShortName>wooshes-007.wav</ShortName>
+					<Path>SFX\wooshes-007_10C4C929.wem</Path>
+				</File>
+				<File Id="153424048" Language="SFX">
+					<ShortName>gotas-004.wav</ShortName>
+					<Path>SFX\gotas-004_10C4C929.wem</Path>
+				</File>
+				<File Id="168689738" Language="SFX">
+					<ShortName>pasos bosque-002.wav</ShortName>
+					<Path>SFX\pasos bosque-002_85B7D7DD.wem</Path>
+				</File>
+				<File Id="185477549" Language="SFX">
+					<ShortName>pasos placas-006.wav</ShortName>
+					<Path>SFX\pasos placas-006_10C4C929.wem</Path>
+				</File>
+				<File Id="207626722" Language="SFX">
+					<ShortName>pasos agua-002.wav</ShortName>
+					<Path>SFX\pasos agua-002_10C4C929.wem</Path>
+				</File>
+				<File Id="283886659" Language="SFX">
+					<ShortName>pasos bosque-004.wav</ShortName>
+					<Path>SFX\pasos bosque-004_19924D3A.wem</Path>
+				</File>
+				<File Id="290468000" Language="SFX">
+					<ShortName>piedra moverse.wav</ShortName>
+					<Path>SFX\piedra moverse_10C4C929.wem</Path>
+				</File>
+				<File Id="291834238" Language="SFX">
+					<ShortName>wooshes-006.wav</ShortName>
+					<Path>SFX\wooshes-006_10C4C929.wem</Path>
+				</File>
+				<File Id="293327405" Language="SFX">
+					<ShortName>amb_lab.wav</ShortName>
+					<Path>SFX\amb_lab_10C4C929.wem</Path>
+				</File>
+				<File Id="299883206" Language="SFX">
+					<ShortName>piedritas-003.wav</ShortName>
+					<Path>SFX\piedritas-003_10C4C929.wem</Path>
+				</File>
+				<File Id="313699009" Language="SFX">
+					<ShortName>gotas-006.wav</ShortName>
+					<Path>SFX\gotas-006_10C4C929.wem</Path>
+				</File>
+				<File Id="315323057" Language="SFX">
+					<ShortName>pasos laberinto-002.wav</ShortName>
+					<Path>SFX\pasos laberinto-002_10C4C929.wem</Path>
+				</File>
+				<File Id="326099773" Language="SFX">
+					<ShortName>wooshes-005.wav</ShortName>
+					<Path>SFX\wooshes-005_10C4C929.wem</Path>
+				</File>
+				<File Id="342559976" Language="SFX">
+					<ShortName>balde-002.wav</ShortName>
+					<Path>SFX\balde-002_7CF3FF52.wem</Path>
+				</File>
+				<File Id="347402177" Language="SFX">
+					<ShortName>vela.wav</ShortName>
+					<Path>SFX\vela_10C4C929.wem</Path>
+				</File>
+				<File Id="436307386" Language="SFX">
+					<ShortName>pasos placas-001.wav</ShortName>
+					<Path>SFX\pasos placas-001_10C4C929.wem</Path>
+				</File>
+				<File Id="461745137" Language="SFX">
+					<ShortName>balde-001.wav</ShortName>
+					<Path>SFX\balde-001_1B60576B.wem</Path>
+				</File>
+				<File Id="465193084" Language="SFX">
+					<ShortName>gotas-001.wav</ShortName>
+					<Path>SFX\gotas-001_10C4C929.wem</Path>
+				</File>
+				<File Id="507024844" Language="SFX">
+					<ShortName>coloca_objeto.wav</ShortName>
+					<Path>SFX\coloca_objeto_10C4C929.wem</Path>
+				</File>
+				<File Id="511959506" Language="SFX">
+					<ShortName>pasos cueva-003.wav</ShortName>
+					<Path>SFX\pasos cueva-003_76CB96DA.wem</Path>
+				</File>
+				<File Id="516578347" Language="SFX">
+					<ShortName>coloca_objeto-001.wav</ShortName>
+					<Path>SFX\coloca_objeto-001_10C4C929.wem</Path>
+				</File>
+				<File Id="562380457" Language="SFX">
+					<ShortName>gotas-007.wav</ShortName>
+					<Path>SFX\gotas-007_10C4C929.wem</Path>
+				</File>
+				<File Id="572618766" Language="SFX">
+					<ShortName>pasos placas-003.wav</ShortName>
+					<Path>SFX\pasos placas-003_10C4C929.wem</Path>
+				</File>
+				<File Id="572789918" Language="SFX">
+					<ShortName>amb_placas.wav</ShortName>
+					<Path>SFX\amb_placas_10C4C929.wem</Path>
+				</File>
+				<File Id="613152749" Language="SFX">
+					<ShortName>gotas-003.wav</ShortName>
+					<Path>SFX\gotas-003_10C4C929.wem</Path>
+				</File>
+				<File Id="614653521" Language="SFX">
+					<ShortName>gotas-005.wav</ShortName>
+					<Path>SFX\gotas-005_10C4C929.wem</Path>
+				</File>
+				<File Id="691560040" Language="SFX">
+					<ShortName>pasos bosque-001.wav</ShortName>
+					<Path>SFX\pasos bosque-001_4426073D.wem</Path>
+				</File>
+				<File Id="696652990" Language="SFX">
+					<ShortName>amb_cueva-001.wav</ShortName>
+					<Path>SFX\amb_cueva-001_D79FB2B7.wem</Path>
+				</File>
+				<File Id="731866857" Language="SFX">
+					<ShortName>pasos laberinto-006.wav</ShortName>
+					<Path>SFX\pasos laberinto-006_10C4C929.wem</Path>
+				</File>
+				<File Id="741215307" Language="SFX">
+					<ShortName>pasos cueva-002.wav</ShortName>
+					<Path>SFX\pasos cueva-002_F3F992FF.wem</Path>
+				</File>
+				<File Id="762191218" Language="SFX">
+					<ShortName>antorcha.wav</ShortName>
+					<Path>SFX\antorcha_10C4C929.wem</Path>
+				</File>
+				<File Id="767957259" Language="SFX">
+					<ShortName>pasos laberinto-004.wav</ShortName>
+					<Path>SFX\pasos laberinto-004_10C4C929.wem</Path>
+				</File>
+				<File Id="770240823" Language="SFX">
+					<ShortName>balde.wav</ShortName>
+					<Path>SFX\balde_C4139433.wem</Path>
+				</File>
+				<File Id="788738747" Language="SFX">
+					<ShortName>piedritas-004.wav</ShortName>
+					<Path>SFX\piedritas-004_10C4C929.wem</Path>
+				</File>
+				<File Id="803409794" Language="SFX">
+					<ShortName>pasos placas-005.wav</ShortName>
+					<Path>SFX\pasos placas-005_10C4C929.wem</Path>
+				</File>
+				<File Id="825499824" Language="SFX">
+					<ShortName>pasos placas-002.wav</ShortName>
+					<Path>SFX\pasos placas-002_10C4C929.wem</Path>
+				</File>
+				<File Id="857645549" Language="SFX">
+					<ShortName>para_placa-003.wav</ShortName>
+					<Path>SFX\para_placa-003_C5109323.wem</Path>
+				</File>
+				<File Id="900875087" Language="SFX">
+					<ShortName>pasos agua-001.wav</ShortName>
+					<Path>SFX\pasos agua-001_10C4C929.wem</Path>
+				</File>
+				<File Id="902000667" Language="SFX">
+					<ShortName>puerta-002.wav</ShortName>
+					<Path>SFX\puerta-002_10C4C929.wem</Path>
+				</File>
+				<File Id="914728855" Language="SFX">
+					<ShortName>gotas-002.wav</ShortName>
+					<Path>SFX\gotas-002_10C4C929.wem</Path>
+				</File>
+				<File Id="965346895" Language="SFX">
+					<ShortName>amb_cueva.wav</ShortName>
+					<Path>SFX\amb_cueva_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1006075052" Language="SFX">
+					<ShortName>piedritas-002.wav</ShortName>
+					<Path>SFX\piedritas-002_10C4C929.wem</Path>
+				</File>
+				<File Id="1020451901" Language="SFX">
+					<ShortName>pasos laberinto-001.wav</ShortName>
+					<Path>SFX\pasos laberinto-001_10C4C929.wem</Path>
+				</File>
+				<File Id="1028700972" Language="SFX">
+					<ShortName>para_placa-001.wav</ShortName>
+					<Path>SFX\para_placa-001_44FA3016.wem</Path>
+				</File>
+				<File Id="1029871698" Language="SFX">
+					<ShortName>piedritas-001.wav</ShortName>
+					<Path>SFX\piedritas-001_10C4C929.wem</Path>
+				</File>
+				<File Id="1030304035" Language="SFX">
+					<ShortName>para_placa-004.wav</ShortName>
+					<Path>SFX\para_placa-004_4F647B88.wem</Path>
+				</File>
+				<File Id="1038390416" Language="SFX">
+					<ShortName>pared aterriza.wav</ShortName>
+					<Path>SFX\pared aterriza_55DA4CA1.wem</Path>
+				</File>
+				<File Id="1066815367" Language="SFX">
+					<ShortName>pasos bosque-003.wav</ShortName>
+					<Path>SFX\pasos bosque-003_0A0C7491.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<StateGroups>
+				<StateGroup Id="2136634857" Name="Escenas" ObjectPath="\States\Default Work Unit\Escenas">
+					<States>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Escenas\None"/>
+						<State Id="2607556080" Name="menu" ObjectPath="\States\Default Work Unit\Escenas\menu"/>
+						<State Id="290285391" Name="lobby" ObjectPath="\States\Default Work Unit\Escenas\lobby"/>
+						<State Id="2943799864" Name="maze" ObjectPath="\States\Default Work Unit\Escenas\maze"/>
+						<State Id="2823359158" Name="library" ObjectPath="\States\Default Work Unit\Escenas\library"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="3026462669" Name="Pasos" ObjectPath="\Switches\Default Work Unit\Pasos">
+					<Switches>
+						<Switch Id="3219867671" Name="Agua" ObjectPath="\Switches\Default Work Unit\Pasos\Agua"/>
+						<Switch Id="2274601469" Name="Cueva" ObjectPath="\Switches\Default Work Unit\Pasos\Cueva"/>
+						<Switch Id="556669445" Name="Laberinto" ObjectPath="\Switches\Default Work Unit\Pasos\Laberinto"/>
+						<Switch Id="1736299401" Name="Placas" ObjectPath="\Switches\Default Work Unit\Pasos\Placas"/>
+						<Switch Id="1641284458" Name="Bosque" ObjectPath="\Switches\Default Work Unit\Pasos\Bosque"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
